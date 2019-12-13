@@ -1,7 +1,7 @@
 ## Neural Networks
-Neural Networks course (EEE950) - Graduate Program in Electrical Engineering (PPGEE/UFMG). 
+Neural Networks course (EEE950) - Graduate Program in Electrical Engineering ([PPGEE](https://www.ppgee.ufmg.br/indexi.php)/[UFMG](https://ufmg.br/international-visitors)). 
 
-Professor: Antônio de Pádua Braga.
+Professor: [Antônio de Pádua Braga](http://www.cpdee.ufmg.br/~apbraga/index.html).
 
 Simple neural network implementations in R:
 
@@ -11,3 +11,15 @@ Simple neural network implementations in R:
 - Perceptron
 - Radial Basis Function Network (RBF)
 - Single Layer Perceptron (SLP)
+
+### Citation
+
+```
+{
+  @misc{pedbrgs-ann,
+       author = {Pedro Vinicius A. B. Venancio},
+       title = {Simple neural networks in {R}},
+       year = {2019},
+       howpublished = {\url{https://github.com/pedbrgs/neural-networks}}
+}
+```
