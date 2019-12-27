@@ -1,5 +1,5 @@
 ## Neural Networks
-Neural Networks course (EEE950) - Graduate Program in Electrical Engineering ([PPGEE](https://www.ppgee.ufmg.br/indexi.php)/[UFMG](https://ufmg.br/international-visitors)). 
+"Artificial Neural Networks: Theory and Applications" course (EEE950) - Graduate Program in Electrical Engineering ([PPGEE](https://www.ppgee.ufmg.br/indexi.php)/[UFMG](https://ufmg.br/international-visitors)). 
 
 Professor: [Antônio de Pádua Braga](http://www.cpdee.ufmg.br/~apbraga/index.html).
 
