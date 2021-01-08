@@ -3,7 +3,7 @@
 **Author:** [Pedro Vinícius A. B. Venâncio](https://www.linkedin.com/in/pedbrgs/)<sup>1,2</sup><br />
 **Professor:** [Antônio de Pádua Braga](http://www.cpdee.ufmg.br/~apbraga/index.html)<sup>3,4</sup><br />
 > <sup>1</sup> Graduate Program in Electrical Engineering (PPGEE/UFMG)<br />
-> <sup>2</sup> Center for Research on Speech, Acoustics and Music (CEFALA/UFMG)<br />
+> <sup>2</sup> Gaia, solutions on demand (GAIA)<br />
 > <sup>3</sup> Department of Electronic Engineering (DELT/UFMG)<br />
 > <sup>4</sup> Computational Intelligence Laboratory (LITC/UFMG)
 
